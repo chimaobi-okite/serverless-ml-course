@@ -7,4 +7,4 @@ plotly
 Pillow
 seaborn
 dataframe-image
-xgboost
+xgboost==0.90
